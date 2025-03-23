@@ -1,0 +1,24 @@
+{
+    "name": "MMM-NSW_Transport",
+    "version": "1.0.0",
+    "description": "A Magic Mirror module to display Transport NSW train and bus information",
+    "main": "MMM-NSW_Transport.js",
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.8.4",
+        "moment-timezone": "^0.5.47"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/joymike/MMM-NSW_Transport.git"
+    },
+    "keywords": [
+        "magic mirror",
+        "smart mirror",
+        "transport",
+        "nsw",
+        "train",
+        "bus"
+    ]
+}
